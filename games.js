@@ -1,6 +1,6 @@
 'use strict';
 
-// Gets each NFL game that has been played, via espn.com
+// Gets each NFL game that has been played, via nfl.com
 
 const request = require('request-promise');
 const cheerio = require('cheerio');
