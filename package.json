@@ -1,0 +1,26 @@
+{
+  "name": "nfl-colley",
+  "version": "1.0.0",
+  "description": "Computes the Colley rankings of all 32 NFL teams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zubry/NFL-Colley.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zubry/NFL-Colley/issues"
+  },
+  "homepage": "https://github.com/Zubry/NFL-Colley#readme",
+  "dependencies": {
+    "bluebird": "^3.0.6",
+    "cheerio": "^0.19.0",
+    "colley-rankings": "^1.0.2",
+    "request": "^2.67.0",
+    "request-promise": "^1.0.2"
+  }
+}
